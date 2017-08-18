@@ -108,7 +108,7 @@ In this section, you enable Azure AD single sign-on in the Azure portal and conf
 
     a. In the **Sign-on URL** textbox, type a URL using the following pattern: `https://<scim company id>.facebook.com`
 
-	b. In the **Identifier** textbox, type a URL using the following pattern: `https://www.facebook.com/company/<scim company id>`
+	b. In the **Identifier** textbox, type a URL using the following pattern: `https://www.facebook.com/company/<company id>`
 
 	> [!NOTE] 
 	> These values are not the real. Update these values with the actual Sign-On URL and Identifier. Contact [Workplace by Facebook Client support team](https://workplace.fb.com/faq/) to get these values. 
